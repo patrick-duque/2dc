@@ -37,13 +37,6 @@ This is a template repository to set up a project using React, React Query, Zust
 
 ## Getting Started
 
-### Clone the repository
-
-```
-git clone https://github.com/vintagegnome/react-query-zustand-ts-vite-boilerplate.git
-cd react-query-zustand-ts-vite-boilerplate
-```
-
 ### Installing Dependencies
 
 ```
@@ -55,7 +48,7 @@ npm install
 To run the project locally, simply execute:
 
 ```
-npm run dev
+npm start
 ```
 
 ## Scripts
@@ -118,11 +111,3 @@ Here's a basic overview of the significant folders in the boilerplate:
 | TypeScript   | For type-safe code and scalability.                            |
 | Vite         | For faster builds and a smoother developer experience.         |
 
-
-## Contribution
-
-If you'd like to contribute to this boilerplate, feel free to fork and send a PR. All contributions are welcome!
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
