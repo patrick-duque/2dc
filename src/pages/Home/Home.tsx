@@ -36,7 +36,6 @@ const Home = () => {
             defaultValue={search}
             onChange={(e) => searchRobot(e.target.value)}
           />
-          <Button type="submit" text="Search" className="mb-[1px]" />
         </div>
         <Button
           text="Create"

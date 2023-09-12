@@ -15,7 +15,7 @@ const Header = () => {
           <div className="flex items-center space-x-3 ">
             <Button
               text="Logout"
-              className="py-3 px-3 font-medium text-white text-xs bg-blue-500 rounded hover:bg-blue-400 transition duration-300"
+              className="font-medium bg-red-600 hover:bg-red-700"
               onClick={() => (window.location = '/logout' as string & Location)}
             />
           </div>
